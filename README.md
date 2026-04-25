@@ -11,7 +11,7 @@ An index of repositories focused on AI safety, ethical AI development, responsib
 
 ## Repositories
 
-### **Ethical Skill Development**
-[![Repository](https://img.shields.io/badge/Repository-Ethical_Skill_Development-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Ethical-Skill-Development)
+### **Responsible Skill Development**
+[![Repository](https://img.shields.io/badge/Repository-Responsible_Skill_Development-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Responsible-Skill-Development)
 
-A suggested code of practice for ethical AI skill development — decoupling dev/published workspaces and sanitising auth-posture documentation.
+A suggested code of practice for responsible AI skill development — decoupling dev/published workspaces and sanitising auth-posture documentation.
