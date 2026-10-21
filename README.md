@@ -1,7 +1,7 @@
 # AI Safety Projects Index
 
 [![GitHub](https://img.shields.io/badge/GitHub-danielrosehill-blue?style=flat-square&logo=github)](https://github.com/danielrosehill)
-[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=flat-square&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=flat-square&logo=github)](https://github.com/danielrosehill/Start-Here)
 [![AI Safety](https://img.shields.io/badge/AI-Safety%20Projects-red?style=flat-square&logo=shield)](https://github.com/danielrosehill/AI-Safety-Projects-Index)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-orange?style=flat-square)](https://github.com/danielrosehill/AI-Safety-Projects-Index)
 
